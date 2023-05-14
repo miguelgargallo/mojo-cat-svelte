@@ -3,7 +3,7 @@
 >
 	<div class="w-full max-w-5xl">
 		<div class="flex items-center justify-center mb-8">
-			<h1 class="text-4xl font-bold text-gray-900 dark:text-gray-100">Mojo ES</h1>
+			<h1 class="text-4xl font-bold text-gray-900 dark:text-gray-100">Mojo CAT</h1>
 			<span class="ml-2 text-red-500 text-2xl"
 				><img src="./favicon.gif" alt="Mojo Cat" class="w-12 h-12 ml-2" /></span
 			>
