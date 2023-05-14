@@ -9,7 +9,7 @@
 			>
 		</div>
 		<p class="text-center text-gray-700 dark:text-gray-300 text-lg mb-12">
-			Descobreix la màgia del llenguatge de programació Mojo en l'àmbit hispà.
+			Descobreix la màgia del llenguatge de programació Mojo en català.
 		</p>
 		<div class="grid grid-cols-1 gap-8 lg:grid-cols-4">
 			<a
